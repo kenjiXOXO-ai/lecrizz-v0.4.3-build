@@ -1,0 +1,8 @@
+<resources>
+    <color name="bg">#090A0F</color>
+    <color name="panel">#12141B</color>
+    <color name="accent">#A88CFF</color>
+    <color name="text">#F7F7FA</color>
+    <color name="brand_purple">#A83BFF</color>
+    <color name="brand_pink">#F04CB8</color>
+</resources>
